@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 
 function Navbar() {
   return(
-    <div className="flex w-11/12 mx-auto text-[#1f2937] text-xl justify-between items-center border mt-5 p-3 h-16  border-gray-200 bg-white shadow">
+    <div className="flex w-11/12 mx-auto text-[#1f2937] text-xl justify-between items-center border mt-5 p-3 h-16 bg-gray-50 shadow-sm">
        <div>
          <img src={image} className="h-12"/>
          
