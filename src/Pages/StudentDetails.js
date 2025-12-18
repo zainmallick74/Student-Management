@@ -1,6 +1,10 @@
+
+
 function StudentDetails() {
   return(
     <div>
+
+
 
     </div>
   )
