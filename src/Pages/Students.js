@@ -1,7 +1,7 @@
 import { FaTrash } from "react-icons/fa";
 import { Link } from "react-router-dom";
 
-const students = [
+export const students = [
   {id:1,name:"Zain" , roll:101,course:"B.Tech",status:"Active"},
   {id:2 , name:"Aman",roll:102 , course:"BCA" , status:"Active"}
 ]
